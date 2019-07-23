@@ -32,17 +32,14 @@ The RPG weapon would then be restricted to only people with personal discord rol
 It's quite simple :slight_smile:
 
  
-[details="Installation"]
+**Installation**
 1. Download DiscordWeaponPerms
 2. Extract the .zip and place the folder in your /resources/ of your Fivem server
 3. Make sure you add “start DiscordWeaponPerms” in your server.cfg
 4. Enjoy :slight_smile:
-[/details]
 
-
-[details="Download"]
+**Download**
 [DiscordWeaponPerms](https://github.com/TheWolfBadger/DiscordWeaponPerms)
-[/details]
 
 
 
