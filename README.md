@@ -1,0 +1,2 @@
+# DiscordWeaponPerms
+A fivem script
