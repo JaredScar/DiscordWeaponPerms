@@ -1,5 +1,7 @@
 # DiscordWeaponPerms
-
+## Continued Documentation
+https://docs.badger.store/fivem-discord-scripts/discordweaponperms
+## Discontinued Documentation
 **Version 1.0** 
 
 Another discord script of course! With this script, you can restrict weapons to certain roles on your discord server! This script also allows restricting certain attachments to different groups as well (however, it'll remove the weapon if they have the attachment, I'll eventually update it to just remove the attachment from the weapon).
