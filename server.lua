@@ -16,8 +16,8 @@ roleList = {
 
 RegisterNetEvent('Print:PrintDebug')
 AddEventHandler('Print:PrintDebug', function(msg)
-	print(msg)
-	TriggerClientEvent('chatMessage', -1, "^7[^1Badger's Scripts^7] ^1DEBUG ^7" .. msg)
+	--print(msg)
+	--TriggerClientEvent('chatMessage', -1, "^7[^1Badger's Scripts^7] ^1DEBUG ^7" .. msg)
 end)
 
 RegisterNetEvent("DiscordWeaponPerms:CheckPerms")
